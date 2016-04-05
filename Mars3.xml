@@ -8,24 +8,15 @@
     <statement name="DO">
       <block type="movement_forward" id="46">
         <next>
-          <block type="robot_delay" id="48" inline="true">
-            <value name="DELAY">
-              <block type="math_number" id="113">
-                <field name="NUM">2500</field>
-              </block>
-            </value>
+          <block type="multimedia_playwav" id="168">
+            <field name="WAV">beep.w</field>
             <next>
-              <block type="multimedia_playwav" id="168">
-                <field name="WAV">beep.w</field>
-                <next>
-                  <block type="robot_delay" id="177" inline="true">
-                    <value name="DELAY">
-                      <block type="math_number" id="193">
-                        <field name="NUM">2500</field>
-                      </block>
-                    </value>
+              <block type="robot_delay" id="48" inline="true">
+                <value name="DELAY">
+                  <block type="math_number" id="113">
+                    <field name="NUM">2500</field>
                   </block>
-                </next>
+                </value>
               </block>
             </next>
           </block>
