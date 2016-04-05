@@ -14,6 +14,11 @@
                 <field name="NUM">2500</field>
               </block>
             </value>
+            <next>
+              <block type="multimedia_playwav" id="168">
+                <field name="WAV">beep.w</field>
+              </block>
+            </next>
           </block>
         </next>
       </block>
