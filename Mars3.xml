@@ -14,6 +14,20 @@
                 <field name="NUM">2500</field>
               </block>
             </value>
+            <next>
+              <block type="multimedia_playwav" id="168">
+                <field name="WAV">beep.w</field>
+                <next>
+                  <block type="robot_delay" id="177" inline="true">
+                    <value name="DELAY">
+                      <block type="math_number" id="193">
+                        <field name="NUM">2500</field>
+                      </block>
+                    </value>
+                  </block>
+                </next>
+              </block>
+            </next>
           </block>
         </next>
       </block>
@@ -27,20 +41,6 @@
                 <field name="NUM">3</field>
               </block>
             </value>
-            <statement name="DO">
-              <block type="multimedia_playwav" id="168">
-                <field name="WAV">beep.w</field>
-                <next>
-                  <block type="robot_delay" id="177" inline="true">
-                    <value name="DELAY">
-                      <block type="math_number" id="193">
-                        <field name="NUM">2500</field>
-                      </block>
-                    </value>
-                  </block>
-                </next>
-              </block>
-            </statement>
             <next>
               <block type="controls_whileUntil" id="1" inline="false">
                 <field name="MODE">UNTIL</field>
