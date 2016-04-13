@@ -177,7 +177,7 @@
                                                                   <block type="oled_cleardisplay" id="56">
                                                                     <next>
                                                                       <block type="multimedia_displaybmp" id="122">
-                                                                        <field name="BMP">https://www.google.ca/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/5/52/Soviet_BMP-1_IFV.JPEG&amp;imgrefurl=https://en.wikipedia.org/wiki/BMP_development&amp;h=1974&amp;w=3000&amp;tbnid=x0xwwHQhlcBXbM:&amp;tbnh=160&amp;tbnw=243&amp;docid=-2lB99bABYJo3M&amp;itg=1&amp;usg=__bxYDGai_hMmCkPpN6lwq4JbafIU=&amp;sa=X&amp;sqi=2&amp;pjf=1&amp;ved=0ahUKEwj8xJfyqYzMAhWFvIMKHaEOCEUQ9QEIITAA</field>
+                                                                        <field name="BMP">https://www.google.ca/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwj0jbaTqozMAhVCv4MKHZF2A5oQjRwIBw&amp;url=http%3A%2F%2Fwww.softicons.com%2Fsystem-icons%2Flozengue-filetype-icons-by-gurato%2Fbmp-file-icon&amp;psig=AFQjCNEBaS2FMU7FUe3hwsrVkd2RHSIhuw&amp;ust=1460661468940742</field>
                                                                       </block>
                                                                     </next>
                                                                   </block>
