@@ -173,15 +173,6 @@
                                                                     <field name="LIGHT">YELLOW</field>
                                                                   </block>
                                                                 </value>
-                                                                <next>
-                                                                  <block type="oled_cleardisplay" id="56">
-                                                                    <next>
-                                                                      <block type="multimedia_displaybmp" id="122">
-                                                                        <field name="BMP">panda.bmp</field>
-                                                                      </block>
-                                                                    </next>
-                                                                  </block>
-                                                                </next>
                                                               </block>
                                                             </next>
                                                           </block>
@@ -209,7 +200,7 @@
               </block>
             </statement>
             <next>
-              <block type="movement_stop" id="45"></block>
+              <block type="movement_stop" id="47"></block>
             </next>
           </block>
         </next>
