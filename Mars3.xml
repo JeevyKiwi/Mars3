@@ -177,7 +177,7 @@
                                                                   <block type="oled_cleardisplay" id="56">
                                                                     <next>
                                                                       <block type="multimedia_displaybmp" id="122">
-                                                                        <field name="BMP">https://en.wikipedia.org/wiki/BMP_file_format#Transparency</field>
+                                                                        <field name="BMP">http://samples.fileformat.info/format/bmp/sample/4cb74cda027a43f3b278c05c3770950f/MARBLES.BMP?AWSAccessKeyId=0V91BEFA7GM093MEVMG2&amp;Signature=v26%2Fx5WAIs0cuLnWBiwEFzBK2b8%3D&amp;Expires=1460575255</field>
                                                                       </block>
                                                                     </next>
                                                                   </block>
