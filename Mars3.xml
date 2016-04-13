@@ -176,8 +176,8 @@
                                                                 <next>
                                                                   <block type="oled_cleardisplay" id="56">
                                                                     <next>
-                                                                      <block type="oled_drawtext" id="86">
-                                                                        <field name="TEXT">http://www.cyberengineeringservices.com/wp-content/uploads/2014/09/panda.bmp</field>
+                                                                      <block type="multimedia_displaybmp" id="122">
+                                                                        <field name="BMP">http://ilab.engr.utk.edu/ilabdocs/Epilog/BMP%20sample%20files/wolf2.bmp</field>
                                                                       </block>
                                                                     </next>
                                                                   </block>
