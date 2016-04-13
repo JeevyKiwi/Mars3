@@ -173,6 +173,15 @@
                                                                     <field name="LIGHT">YELLOW</field>
                                                                   </block>
                                                                 </value>
+                                                                <next>
+                                                                  <block type="oled_cleardisplay" id="56">
+                                                                    <next>
+                                                                      <block type="oled_drawtext" id="86">
+                                                                        <field name="TEXT">http://www.cyberengineeringservices.com/wp-content/uploads/2014/09/panda.bmp</field>
+                                                                      </block>
+                                                                    </next>
+                                                                  </block>
+                                                                </next>
                                                               </block>
                                                             </next>
                                                           </block>
