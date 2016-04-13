@@ -177,7 +177,7 @@
                                                                   <block type="oled_cleardisplay" id="56">
                                                                     <next>
                                                                       <block type="multimedia_displaybmp" id="122">
-                                                                        <field name="BMP">http://ilab.engr.utk.edu/ilabdocs/Epilog/BMP%20sample%20files/wolf2.bmp</field>
+                                                                        <field name="BMP">https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.cyberengineeringservices.com%2Fwp-content%2Fuploads%2F2014%2F09%2Fpanda.bmp&amp;imgrefurl=http%3A%2F%2Fwww.cyberesi.com%2F2012%2F07%2F17%2Fdownloader-bmp%2F&amp;docid=Irrjj17REqCMRM&amp;tbnid=Ng63PetIyM6jtM%3A&amp;w=420&amp;h=280&amp;safe=strict&amp;ved=0ahUKEwj88Y_YqIzMAhUIgYMKHQ5IB6QQMwgbKAAwAA&amp;iact=mrc&amp;uact=8</field>
                                                                       </block>
                                                                     </next>
                                                                   </block>
